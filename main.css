@@ -1,0 +1,14 @@
+body {
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+#box {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: pink;
+}
